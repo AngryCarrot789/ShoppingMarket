@@ -39,6 +39,7 @@ namespace ShoppingMarket.ViewModel
             //{
             //    Products.Add(eek);
             //}
+            //
         }
 
         private List<IProductModel> GetSamples()
